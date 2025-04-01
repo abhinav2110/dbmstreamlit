@@ -3,8 +3,8 @@ nest_asyncio==1.6.0
 python-dotenv==1.0.1
 sentence_transformers==3.3.1
 pdfplumber
-streamlit
 openai
+streamlit
 llama-index-core 
 llama_index==0.12.8
 llama-index-readers-file
@@ -14,5 +14,7 @@ llama-index-llms-bedrock
 llama-index-llms-azure-openai
 llama_index-embeddings-azure-openai
 azure-storage-blob
-azure-search-documents
+azure-search-documents==11.6.0b8
+fastapi
 pydantic==2.10.6
+# azure_storage==0.37.0
