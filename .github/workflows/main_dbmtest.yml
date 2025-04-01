@@ -68,4 +68,4 @@ jobs:
         with:
           app-name: 'dbmtest'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C71B763E3B3A4C03A87429BE2B38C6DD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3C508A10F81142ED9ACF815E4F78CF27 }}
