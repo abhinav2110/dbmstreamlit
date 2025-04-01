@@ -1,0 +1,8 @@
+{
+    "llm_type": "azure",
+    "model": "gpt-4o",
+    "temperature": 0.3,
+    "max_tokens": 3000,
+    "embedding_model": "text-embedding-ada-002",
+    "embedding_deployment": "text-embedding-ada-002"
+}
